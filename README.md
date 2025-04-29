@@ -4,8 +4,8 @@ Desenvolver um sistema capaz de *detectar Fake News* em um dispositivo, visando 
 
 ![Logo Empresa](https://github.com/user-attachments/assets/78a5f776-9c3e-4d78-b571-026ffd09153d)
 
-## Qual linguagem e estrutura usamos?
-- Foi utilizado a linguagem de programação **Python**, pois é uma linguagem simples e fácil de entender. Para um início do sistema, é melhor a escolha de uma linguagem mais "tranquila" e fácil para modificar. Depois, há a possibilidade de melhorá-la com outras linguagens mais avançadas, como Java e C#.
+## O que usamos?
+- Para a programação, foi utilizado a linguagem de programação **Python**, pois é uma linguagem simples e fácil de entender. Para um início do sistema, é melhor a escolha de uma linguagem mais "tranquila" e fácil para modificar. Depois, há a possibilidade de melhorá-la com outras linguagens mais avançadas, como Java e C#.
 - Para a parte visual do sistema, usamos o **CustomTkinter**, que possui uma bibloteca com vários elementos para a interface do sistema, como botões, caixas e até cores, sendo compatível com Python.
 
 ## Como irá funcionar?
