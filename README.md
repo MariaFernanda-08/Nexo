@@ -1,6 +1,9 @@
 # Nexo - Conexões sem fronteiras 🌎 💬
 ## Objetivo
-Desenvolver um sistema capaz de *enviar mensagns instantâneas* em um dispositivo, visando a comunicação rápida e práica dos usuários em qualquer lugar. Além disso, também irá promover a melhora da comunicação de forma instantânea ao enviar notificações às pessoas que receberem algum recado, auxiliando que as conversas sejam rápidas e práticas, ajudando nas tomadas de decisões que precisam ser feitas na hora. Melhorará também conversas entre indivíduos em lugares distintos e distantes, algo que muitas vezes era um grande desafio e necessitava de recursos, muitas vezes, extremamente caros ou não acessíveis.
+Desenvolver um sistema capaz de *enviar mensagns instantâneas* em um dispositivo, visando a comunicação rápida e práica dos usuários em qualquer lugar. Além disso, também irá promover a melhora da comunicação de forma instantânea ao enviar notificações às pessoas que receberem algum recado, auxiliando que as conversas sejam rápidas e práticas, ajudando nas tomadas de decisões que precisam ser feitas na hora. Melhorará também conversas entre indivíduos em lugares distintos e distantes, algo que muitas vezes era um grande desafio e necessitava de recursos, muitas vezes, extremamente caros ou não acessíveis. Ao propiciar tais avanços,
+será possível ajudar qualquer um que queira se comunicar, mas também ajudará
+muito as empresas que, na maioria das vezes, precisam de uma comunicação
+rápida para tomada de ações e troca de informações.
 
 ![Logo Empresa](https://github.com/user-attachments/assets/80c77f60-f929-4977-b1a3-a7286190f692)
 
