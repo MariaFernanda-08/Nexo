@@ -9,3 +9,11 @@ Desenvolver um sistema capaz de *enviar mensagns instantâneas* em um dispositiv
 - Para a parte visual do sistema, usamos o **CustomTkinter**, que possui uma bibloteca com vários elementos para a interface do sistema, como botões, caixas e até cores, sendo compatível com Python.
 
 ## Como irá funcionar?
+
+- Tela Inicial:
+
+![Inicio](https://github.com/user-attachments/assets/08b58050-5a9c-4e48-ae87-f4e057899cf2) 
+
+- Tela durante a conversa:
+
+![Funcionamento](https://github.com/user-attachments/assets/34e561d6-5561-4449-a77a-511ead4d6927)
