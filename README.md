@@ -1,4 +1,4 @@
-# Nexo - A verdade em um só toque 👾 ✅
+# Nexo - Conexões sem fronteiras 🌎 💬
 ## Objetivo
 Desenvolver um sistema capaz de *enviar mensagns instantâneas* em um dispositivo, visando a comunicação rápida e práica dos usuários em qualquer lugar. Além disso, também irá promover a melhora da comunicação de forma instantânea ao enviar notificações às pessoas que receberem algum recado, auxiliando que as conversas sejam rápidas e práticas, ajudando nas tomadas de decisões que precisam ser feitas na hora. Melhorará também conversas entre indivíduos em lugares distintos e distantes, algo que muitas vezes era um grande desafio e necessitava de recursos, muitas vezes, extremamente caros ou não acessíveis.
 
