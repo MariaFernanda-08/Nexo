@@ -1,6 +1,6 @@
 # Nexo - A verdade em um só toque 👾 ✅
 ## Objetivo
-Desenvolver um sistema capaz de *detectar Fake News* em um dispositivo, visando a clarificação dos usuários em primeiro lugar. Além disso, também irá promover a quebra do ciclo do compartilhamento de notícias falsas, que assolam pessoas do mundo inteiro, que possuem, muitas vezes, dificuldades para a detecção de algo verídico. Identificando tais matérias, protegerá os indivíduos da desinformação; de golpes e fraudes que são feitos várias vezes pelos meios inverídicos sendo combatidos; preservará a reputação de pessoas, instituições ou empresas e também possibilitará o fortalecimento da democracia.
+Desenvolver um sistema capaz de *enviar mensagns instantâneas* em um dispositivo, visando a comunicação rápida e práica dos usuários em qualquer lugar. Além disso, também irá promover a melhora da comunicação de forma instantânea ao enviar notificações às pessoas que receberem algum recado, auxiliando que as conversas sejam rápidas e práticas, ajudando nas tomadas de decisões que precisam ser feitas na hora. Melhorará também conversas entre indivíduos em lugares distintos e distantes, algo que muitas vezes era um grande desafio e necessitava de recursos, muitas vezes, extremamente caros ou não acessíveis.
 
 ![Logo Empresa](https://github.com/user-attachments/assets/80c77f60-f929-4977-b1a3-a7286190f692)
 
